@@ -12,7 +12,7 @@
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" height="30" width="30"/></a>
 <a href="https://www.facebook.com/giampierecrisostomo" target="_blank">
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-512.png" height="30" width="30"/></a>
-  <a href="  https://api.whatsapp.com/send?phone=938204566" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=938204566" target="_blank">
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo-whatsapp-512.png" height="30" width="30"/></a>
 <a href="https://www.youtube.com/@giampierecrisostomo" target="_blank">
   <img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-512.png" height="30" width="30"/></a>
