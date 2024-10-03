@@ -33,7 +33,7 @@ About Me 🧑‍💻:
 <p align="center">
 
 - I am a young programmer from Peru.
-- I am 20 years old.
+- I am 22 years old.
 - I am a self-taught and highly creative person who seeks to learn and improve every day.
 - I am in the process of working with the front end because I want to offer the best visual experience to the user.
 </details>
